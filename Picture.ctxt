@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Picture
+comment1.params=
+comment1.target=Picture()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Picture\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\n\ Draw\ this\ custom\ picture.\n
+comment3.params=
+comment3.target=void\ setBlackAndWhite()
+comment3.text=\n\ Change\ this\ picture\ to\ black-and-white\ display\n
+comment4.params=
+comment4.target=void\ setColor()
+comment4.text=\n\ Change\ this\ picture\ to\ use\ color\ display\n
+numComments=5
