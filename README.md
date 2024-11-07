@@ -1,4 +1,4 @@
-## From weekly module tasks  
+## Optional Module Task  
 
 - You are going to taht inside this scenery there is a truck, a tree and sun
 - Optional task project from course work 
