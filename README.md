@@ -1,14 +1,17 @@
-## Optional Task  
+## Optional Task: Scenery Building with Java OOP (Using BlueJ)
 
-- Inside this scenery there is a truck, a tree and sun
-- Optional task project from course work 
-- We are programming in java using bluej, you can install the version 5.2.1 as well or continue with IntelliJ
-- Bluej is effiecient for graphical OOP   
-- You can visualise OOP Objects, Classes, Methods and fields. Hence, learn better 
-- Feels like a game when you engage yourself with constructing client and supplier classes
-- You can change the picture class as you wish and add more stuffs inside the scenery
-- However, if you want to add more real objects like parallelograms etc.. then you need to add a new class called "Parallelogram". (Which I think you wouldn't require for now)
-- Update the picture class as required, if you are trying to look into the canvas class(which I suppose you might want to, but you don't actually need to) All the best although, make 
-  sure to not touch the code inside the Canvas class unless you are adding new Classes or colors
-- For runtime flexibility, I have added seperate java files as well. You would be able to access the whole code and see the output wihtout using bluej
-- Have fun :)
+In this optional exercise, you’ll create a simple graphical scenery in Java that includes a truck, a tree, and the sun.
+
+This task is ideal for those working in BlueJ (version 5.2.1), although IntelliJ can be used as well. However, BlueJ offers unique features for graphical object-oriented programming (OOP) that make it especially suitable for visualizing the relationships between objects, classes, methods, and fields. Working in BlueJ feels like constructing a game, allowing you to see how client and supplier classes interact in real-time.
+
+## Getting Started
+
+You’ll primarily work within the Picture class, which you can modify to enhance the scenery.
+Feel free to experiment! Add more objects to the scenery if you'd like. If you want to incorporate more complex shapes (like parallelograms), create a new class named Parallelogram.
+Although you can access the Canvas class to better understand how objects are drawn, avoid changing its code unless you're adding new classes or colors.
+
+## Running Your Program
+
+For greater flexibility, individual Java files have been provided. You can run the entire code and view the output without BlueJ.
+Enjoy the Task!
+This exercise is designed to make learning OOP concepts enjoyable and interactive, so have fun experimenting with building and modifying your scenery!
